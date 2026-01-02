@@ -1,4 +1,4 @@
-Symbolic Derivative Engine
+Derivative Calculator Project
 
 Compute symbolic derivatives of mathematical expressions automatically in Java.
 
